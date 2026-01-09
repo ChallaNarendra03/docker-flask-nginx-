@@ -1,4 +1,4 @@
-# Dockerized Flask App with Nginx Reverse Proxy
+# terraform-ansible-flask-nginx
 
 ## 📌 Project Overview
 This project demonstrates how to run a Flask backend application behind an Nginx reverse proxy using Docker and Docker Compose.
